@@ -29,5 +29,5 @@
   disc_one_base_color: "string",
   barcode: "string",
   barcode_sticker: "string",
-  download_cards: nil,
+  download_cards: nil, # rubocop:disable Style/TrailingCommaInHashLiteral
 }
