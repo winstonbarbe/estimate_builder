@@ -1,0 +1,8 @@
+{
+  id: order.id,
+  name: order.name,
+  artist: order.artist,
+  title: order.title,
+  eb_number: order.eb_number,
+  catalog_number: order.catalog_number,
+}
